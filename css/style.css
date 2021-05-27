@@ -1,0 +1,108 @@
+.mainBlock{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	font-family: Arial;
+}
+.topImg{
+	width: 33.3333%;
+	height: 800px;
+}
+.toptext{
+	width: 66.6666%;
+	height: 800px;
+	background-color: #fff;
+	flex-direction: column;
+}
+.mimiLoftyText{
+	color: #22356F;
+	font-size: 16px;
+	padding: 80px 0 130px 50px;
+}
+.bigCenterText{
+	color: #22356F;
+	font-size: 36px;
+	padding: 0 160px 100px 50px;
+	font-weight: 700;
+	word-spacing: 0px;
+	letter-spacing: -1px;
+}
+.lightBlue{
+	color: #6CD3E1;
+}
+.downText{
+	color: #FAB63E;
+	font-size: 16px;
+	font-weight: 700;
+	padding: 0 0 0 50px;
+}
+.meanText{
+	width: 76.6666%;
+	height: 800px;
+	background-color: #22356F;
+	flex-direction: column;
+}
+.whiteLoftyText{
+	color: #fff;
+	font-size: 16px;
+	padding: 80px 0 250px 180px;
+}
+.largeCenterText{
+	color: #fff;
+	font-size: 64px;
+	padding: 0px 0 80px 180px;
+	font-weight: 700;
+}
+.mainCenterText{
+	color: #fff;
+	font-size: 36px;
+	padding: 0 500px 120px 180px;
+	font-weight: 300;
+	word-spacing: 0px;
+	letter-spacing: -1px;
+}
+.lBlueDownText{
+	color: #62D0DF;
+	font-size: 16px;
+	font-weight: 700;
+	padding: 0 0 0 180px;
+}
+.meanImg{
+	width: 23.3333%;
+	height: 800px;
+}
+.lowImg{
+	width: 39.5833%;
+	height: 380px;
+}
+.lowText{
+	width: 20.1388%;
+	height: 380px;
+	padding: 50px 200px 50px 0px;
+}
+.header{
+	color: #22356F;
+	font-size: 14px;
+	font-weight: 700;
+	padding: 0 0 80px 0;
+}
+a: visited{
+	text-decoration: none;
+} 
+.lowGrayText{
+	color: #708090;
+	font-size: 14px;
+	line-height: 25px;
+}
+.footer{
+	width: 100%;
+	height: 80px;
+	padding: 35px 150px;
+	background-color: #62D0DF;
+}
+.footertext{
+	color: #fff;
+	align-items: center;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
